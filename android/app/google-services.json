@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "629074476038",
+    "project_id": "ndi-app-cedc5",
+    "storage_bucket": "ndi-app-cedc5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:629074476038:android:0a0edf548c4054187d1787",
+        "android_client_info": {
+          "package_name": "com.example.ndi_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "629074476038-rbi5vb0bma56248io0m8fkbib1qco9ha.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ndi_app",
+            "certificate_hash": "1ec465155dabf67e4476b1150703dc5f10c1c756"
+          }
+        },
+        {
+          "client_id": "629074476038-ghi03agufmn40ta76qske9r31uhakpbs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBn8pROG4uQ_xGOP0ed3Uz5nJEigJoX8w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "629074476038-ghi03agufmn40ta76qske9r31uhakpbs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
