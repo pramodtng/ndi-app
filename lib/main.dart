@@ -1,6 +1,5 @@
 import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
-import 'package:ndi_app/admin/dashboard_admin.dart';
 import 'package:ndi_app/auth/loginScreen.dart';
 
 Future<void> main() async {

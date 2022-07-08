@@ -5,6 +5,7 @@ import 'package:firebase_auth/firebase_auth.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'package:ndi_app/auth/loginScreen.dart';
 import 'package:flutter/material.dart';
+// ignore: unused_import
 import 'package:bottom_navy_bar/bottom_navy_bar.dart';
 import 'package:ndi_app/modal/user_modal.dart';
 import 'package:ndi_app/screen/interpersonal_questions.dart';

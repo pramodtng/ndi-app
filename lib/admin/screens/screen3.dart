@@ -1,8 +1,6 @@
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:flutter/material.dart';
-import 'package:ndi_app/admin/interpersonal_Questions/update_questions.dart';
 
-import '../crud_interpersonal/add_question.dart';
 import '../crud_personal/add_question.dart';
 import '../crud_personal/update_questions.dart';
 

@@ -1,8 +1,6 @@
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:flutter/material.dart';
 import 'package:ndi_app/admin/dashboard_admin.dart';
-import 'package:ndi_app/admin/screens/dashboard.dart';
-import 'package:ndi_app/admin/screens/list_all_questions.dart';
 
 class AddQuestions extends StatefulWidget {
   const AddQuestions({Key? key}) : super(key: key);
